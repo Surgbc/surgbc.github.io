@@ -9,11 +9,22 @@ order: 1
 
 ## Hello, World!
 
-Hi, I'm **DaeIn Lee**, *a.k.a.* **Lazy Ren**.<br>
-I'm currently working at **[SAP Labs Korea]**, and previsouly was CSE student of **[Hanyang University]**.<br>
-I like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).<br>
-And I'm also a [heavy gamer]!<br>
-Pleaseh check my [resume] if you wish to know more about me.
+Hi, I'm **Brian Onang'o**<br>
+
+This is my personal blog. I have been writing computer programs since I was 14 years old. A few years ago when I was first employed, I used to confidently refer to myself as a senior programmer. That was the folly of youth. For the more I have gotten down to really building useful stuff, the more I have gotten to see just how little I know, especially of the so called best practices. There is always something new for me to learn everyday. And it seems to me that I will be a junior developer till I retire. Now, with over 6 years of working experience, I still can't get down to writing a useful CV. I prefer rather to... This problem is compounded by the fact that I have had, and will still have things to handle in so many fields: software, mechanical and electrical.
+
+But that's not all. I have gotten down again to learning grammar in 3 languages for other responsibilities that I have at Gospel Sounders with the Bible Instructor, the Bible Companion, the Sabbath School Lessons and the Bible Translation Project.
+
+There is also a lot of AI to learn for the Advent Hymnal project at Gospel Sounders. The older I grow, the clearer it is to me that "if any man thinketh that he knoweth anything, he knoweth nothing yet as he ought to". It was said of our days that "men shall run to and fro, and knowledge shall be increased". We cannot know it all.
+
+I believe that I am one of those people who are unemployable. I have once been employed ... Read the story here...
+
+
+
+
+
+
+Please check my [resume] if you wish to know more about me.
 
 ***
 
@@ -21,45 +32,6 @@ Pleaseh check my [resume] if you wish to know more about me.
 
 ***
 
-## Work Hard to be Lazy
-
-_My motto to live by._
-{:.lead}
-
-> “Working hard to be lazy basically means investing the extra effort (working hard) at first so that it will pay off in the long run (be lazy).”
-
-## Re-evaluate your work processes
-
-The lazy man will try to accomplish 2 hours worth of work in 1 hour’s time but sometimes at the expense of the work’s quality.<br>
-Think of it as **efficiency = quality/time** taken (referencing speed = distance/over).<br>
-If the time taken is reduced, either the job’s quality has to be lowered or the efficiency must be increased. Efficiency really relates to the work process.<br>
-So in order to keep the quality the same and reduce the time taken, the work process must be changed.
-
-## Don’t repeat yourself
-
-After evaluating what you do, you may have some ideas of what you want to improve or modify.<br>
-Break it down to its core.
-
-## Try a new process
-
-Be open to completely changing the way you work.<br>
-You can’t expect to become more productive unless you pay a price at first.
-
-## Refine yourself
-
-By refining yourself I mean going through this work hard to be lazy process in iterations.<br>
-Try a new process, if that doesn’t help as much as you hoped, try another process.<br>
-The worst thing that could happen is that you don’t find any improvement in your work process and go back to your original process and just work hard.<br>
-Did you lose anything?
-
-[original post]
-
-***
-
-Blog created by DaeIn Lee on July 19. 2018 in Vancouver,<br>
-based on the jekyll theme [Hydejack].
-
-***
 
 <!--author-->
 

@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              DaeIn Lee
-  email:             daein0lee@gmail.com
+  name:              Brian Onang'o
+  email:             brian@cseco.co.ke
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    HANA Core Developer at [SAP Labs Korea](https://www.sap.com/korea/about/labs-korea.html).<br>
+    Mechatronics engineer, software developer and security reseacher from Kenya. Founder of Circuits and Systems Engineering Company and Brian Mechanisms<br>
     Please check my [Resume][resume] to find out more about me!<br>
 
     [resume]: /resume/
@@ -25,10 +25,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin:        daein-lee-3b6ba9139
-    github:          lazyren
-    stackoverflow:   4294737
-    email:           lazy0ren@gmail.com
+    # linkedin:        
+    github:          surgbc
+    # stackoverflow:   4294737
+    email:           surgbc@gmail.com
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -63,18 +63,3 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase:         <username>
-
-# Another author (optional)
-# author2:
-#   name:              <firtname> <lastname>
-#   email:             <mail@domain.tld>
-#   about:             |
-#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-#     Open `_data/authors.yml` to edit this text.
-
-#   picture:           https://placehold.it/128x128
-#   twitter:           <username>
-#   github:            <username>

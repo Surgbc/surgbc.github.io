@@ -50,3 +50,6 @@ vendor
 *.gem
 _zip
 /stats.json
+
+
+todo.md

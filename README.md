@@ -1,4 +1,4 @@
-# Lazy Ren's Blog
+# Brian Onang's personal Site
 
 ## [About Me]
 
